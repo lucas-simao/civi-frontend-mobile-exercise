@@ -22,6 +22,5 @@ npx react-native run-android
 npx react-native run-ios
 ```
 
-After run app you get instructions on terminal to run app on android, ios or web. If you not have ios or android you can select the option 'w'
-
+###Obs: run api before app
 
