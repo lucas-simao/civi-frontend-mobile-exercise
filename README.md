@@ -12,6 +12,16 @@ cd api && go run main.go
 
 Change on app/App.js "http://192.168.250.33:9000/messages" to your IP don't use localhost.
 
+```bash
+cd app && npm install
+
+//Android
+npx react-native run-android
+
+//iOS
+npx react-native run-ios
+```
+
 After run app you get instructions on terminal to run app on android, ios or web. If you not have ios or android you can select the option 'w'
 
 
