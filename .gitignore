@@ -29,7 +29,6 @@ app/.gradle
 app/local.properties
 app/*.iml
 app/*.hprof
-app/android/
 
 # node.js
 #
