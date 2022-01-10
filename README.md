@@ -22,5 +22,5 @@ npx react-native run-android
 npx react-native run-ios
 ```
 
-###Obs: run api before app
+### Obs: run api before app
 
