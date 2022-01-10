@@ -10,9 +10,7 @@ cd api && go run main.go
 
 ## Instruction to run app
 
-```bash
-cd app && npm run start
-```
+Change on app/App.js "http://192.168.250.33:9000/messages" to your IP don't use localhost.
 
 After run app you get instructions on terminal to run app on android, ios or web. If you not have ios or android you can select the option 'w'
 
